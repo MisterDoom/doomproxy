@@ -1,7 +1,7 @@
 export default {
   // https://daisyui.com/docs/themes/
-  darkTheme: 'forest',
-  lightTheme: 'bumblebee',
+  darkTheme: 'black',
+  lightTheme: 'emerald',
 
   compatibility: {
     uv: [
