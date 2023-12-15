@@ -39,7 +39,7 @@ function Navbar() {
       <div className="navbar-center">
         <Link to="/">
           <div className="btn btn-ghost normal-case text-xl">
-            <FontAwesomeIcon icon={fas.faMugHot} /> Mocha
+            <FontAwesomeIcon icon={fas.faMugHot} /> Landins Proxy
           </div>
         </Link>
       </div>
